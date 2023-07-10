@@ -1,12 +1,19 @@
-## Hi there 👋
+# 2023 천재교육 풀스택 JAVA과정 스터디 및 공유 Repo입니다. 
 
-<!--
 
-**Here are some ideas to get you started:**
+<!-- 운영팀 토글 -->
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details>
+<summary>스터디를 준비한 운영팀 👀</summary>
+<div>
+
+| 이름 | 파트 | 학교 |
+| :---: | :---: | :---: |
+| 박진권 | 팀장 | 
+| 오태훈 | 백엔드 | 
+| 신예은 | 백엔드 | 
+| 김보경 | 백엔드 |
+| 김현경 | 백엔드 | 
+
+</div>
+</details>
